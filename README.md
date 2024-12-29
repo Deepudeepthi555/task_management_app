@@ -1,4 +1,4 @@
-# Task Management App
+# TaskIt ( Task Management App )
 
 A Flutter-based task management application that allows users to add, delete, and mark tasks as completed. It includes features like task categorization, progress tracking, theme switching, and data persistence using shared preferences.
 
